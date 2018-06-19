@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# 弘扬诗词传统文化，建设诗意语文世界
 
-You can use the [editor on GitHub](https://github.com/m1ttwoch/m1ttwoch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>*摘要 诗教的是我们中华民族史上的一种优良传统。诗教富于情味,具有感染力。运用诗教方式可以激发学生向上的热情,挖掘学生的潜力,融洽师生感情,建设一个诗意的语文世界。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,23 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
