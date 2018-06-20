@@ -4,6 +4,8 @@
  
 >*关键词：诗教艺术 素质教育 诗意语文*
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
+
 中国自古即是一个注重诗教的国家,两千多年前,大教育家孔子就提出诗教,认为“不学诗无以言”“诗可以兴、可以观、可以群、可以怨”。近年来,广西北流市积极探索“诗词文化进课堂”,发扬诗教之功能,为青少年成长建构诗意之人生,这也是实施“幸福教育工程”的一个重要课题。基于诗词教育与语文学科的密切相关,笔者认为：诗词教育应该与语文学科有机结合,充分调动语文教师的主观能动性与创造性,在语文教学中和教学外逐步推开、深入,从而建设一个诗意的语文世界。
 
 ## 1 挖掘本土文化资源,弘扬诗词文化传统
